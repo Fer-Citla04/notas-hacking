@@ -3,6 +3,6 @@
 
 ## **Solución**
 
-## **Notas adicionales**
+## **Notas adicionales
 
-## **Referencias**
+## **Referencias
