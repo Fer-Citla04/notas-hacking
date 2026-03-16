@@ -1,4 +1,4 @@
-## **Reto**: 
+## **Reto**:  
 ## **Descripción**
 
 ## **Solución**
