@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/01-Crypto/08 interencdec.md",
+                "file": "picoCTF/02-Crypto/rsa pop quiz.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "08 interencdec"
+              "title": "rsa pop quiz"
             }
           }
         ]
@@ -182,9 +182,11 @@
   },
   "active": "84f73a4c97fc24f8",
   "lastOpenFiles": [
-    "picoCTF/04 Easy 1.md",
-    "picoCTF/01-Crypto/08 interencdec.md",
     "Plantilla.md",
+    "picoCTF/02-Crypto/rsa pop quiz.md",
+    "picoCTF/01-Crypto/08 interencdec.md",
+    "picoCTF/02-Crypto",
+    "picoCTF/04 Easy 1.md",
     "picoCTF/01-Crypto/07 waves over lambda.md",
     "picoCTF/01-Crypto/06 Tapping.md",
     "picoCTF/01-Crypto/05 la cifra de.md",
@@ -210,7 +212,6 @@
     "picoCTF/Examen 1/1.9 SansAlpha - General.md",
     "picoCTF/Examen 1/1.8 Python Wrangling - General.md",
     "picoCTF/Examen 1/1.7 flag_shop - General.md",
-    "picoCTF/Examen 1/1.6 dont-you-love-banners - General.md",
     "Pasted image 20260329122853.png",
     "Pasted image 20260329122939.png",
     "picoCTF/Examen 1",
@@ -223,7 +224,6 @@
     "Pasted image 20260308165812.png",
     "Pasted image 20260308165722 2.png",
     "Pasted image 20260308165722 1.png",
-    "picoCTF/picoCTF Web 4",
     "picoCTF/01-General Skills/Sin título.canvas",
     "picoCTF/03-General Skills 3/Sin título.canvas"
   ]
