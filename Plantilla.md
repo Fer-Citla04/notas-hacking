@@ -4,5 +4,3 @@
 ## **Solución**
 
 ## **Notas adicionales
-
-## **Referencias
