@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Tarea 4  - Crypto/10 Vigenere.md",
+                "file": "picoCTF/Reversing Parte 1/05 vault-door-5.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "10 Vigenere"
+              "title": "05 vault-door-5"
             }
           }
         ]
@@ -182,10 +182,17 @@
   },
   "active": "84f73a4c97fc24f8",
   "lastOpenFiles": [
-    "Pasted image 20260503163436.png",
+    "Plantilla.md",
+    "picoCTF/Reversing Parte 1/05 vault-door-5.md",
+    "picoCTF/Reversing Parte 1/04 vault-door-4.md",
+    "Readme.md",
+    "picoCTF/Reversing Parte 1/03 vault-door-3.md",
+    "picoCTF/Reversing Parte 1/02 vault-door-1.md",
+    "picoCTF/Reversing Parte 1/01 vault-door-training.md",
     "picoCTF/Tarea 4  - Crypto/09 substitution2.md",
     "picoCTF/Tarea 4  - Crypto/10 Vigenere.md",
-    "Plantilla.md",
+    "picoCTF/Reversing Parte 1",
+    "Pasted image 20260503163436.png",
     "picoCTF/Tarea 4  - Crypto/08 substitution1.md",
     "picoCTF/Tarea 4  - Crypto/07 substitution0.md",
     "picoCTF/Tarea 4  - Crypto/06 rail-fence.md",
@@ -209,15 +216,10 @@
     "picoCTF/Crypto 04",
     "picoCTF/Crypto 03/03 b00tl3gRSA.md",
     "picoCTF/Crypto 03/02 Mind your Ps and Qs.md",
-    "picoCTF/Crypto 03/01 Mini RSA.md",
     "Pasted image 20260429113151.png",
     "Pasted image 20260429113127.png",
-    "picoCTF/Tarea 1/02 Chrono.md",
-    "picoCTF/Crypto 02/rsa pop quiz.md",
     "picoCTF/Crypto 03",
-    "picoCTF/Crypto 01/08 interencdec.md",
     "picoCTF/Crypto 02",
-    "picoCTF/04 Easy 1.md",
     "picoCTF/Crypto 01",
     "picoCTF/Tarea 4",
     "picoCTF/Examen 1/Sin título.base",
@@ -225,9 +227,7 @@
     "Pasted image 20260329122939.png",
     "picoCTF/Examen 1",
     "picoCTF/Forensic 4",
-    "picoCTF/Forensic 3",
     "Pasted image 20260308165722.png",
-    "Pasted image 20260308165812.png",
     "picoCTF/01-General Skills/Sin título.canvas",
     "picoCTF/03-General Skills 3/Sin título.canvas"
   ]
