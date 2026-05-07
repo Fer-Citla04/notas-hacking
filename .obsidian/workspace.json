@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing Parte 1/05 vault-door-5.md",
+                "file": "picoCTF/Reversing Parte 2/06 Picker IV.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "05 vault-door-5"
+              "title": "06 Picker IV"
             }
           }
         ]
@@ -182,13 +182,22 @@
   },
   "active": "84f73a4c97fc24f8",
   "lastOpenFiles": [
+    "picoCTF/Reversing Parte 2/05 Picker III.md",
+    "picoCTF/Reversing Parte 2/04 Picker II.md",
+    "picoCTF/Reversing Parte 2/03 Picker I.md",
+    "picoCTF/Reversing Parte 2/06 Picker IV.md",
+    "picoCTF/Reversing Parte 2/02 timer.md",
+    "picoCTF/Reversing Parte 2/01 Safe Opener 2.md",
     "Plantilla.md",
+    "picoCTF/Sin nombre/Sin título.md",
     "picoCTF/Reversing Parte 1/05 vault-door-5.md",
+    "picoCTF/Sin nombre",
+    "picoCTF/Reversing Parte 2",
     "picoCTF/Reversing Parte 1/04 vault-door-4.md",
-    "Readme.md",
     "picoCTF/Reversing Parte 1/03 vault-door-3.md",
     "picoCTF/Reversing Parte 1/02 vault-door-1.md",
     "picoCTF/Reversing Parte 1/01 vault-door-training.md",
+    "Readme.md",
     "picoCTF/Tarea 4  - Crypto/09 substitution2.md",
     "picoCTF/Tarea 4  - Crypto/10 Vigenere.md",
     "picoCTF/Reversing Parte 1",
@@ -208,14 +217,7 @@
     "picoCTF/Tarea 1/01 Permissions.md",
     "picoCTF/Crypto 04/05 flags.md",
     "picoCTF/Tarea 4  - Crypto",
-    "picoCTF/Crypto 04/04 ReadMyCert.md",
-    "picoCTF/Crypto 04/03 HideToSee.md",
-    "picoCTF/Crypto 04/02 basic-mod1.md",
-    "picoCTF/Crypto 04/01 Pixelated.md",
-    "picoCTF/Crypto 03/04 b00tl3gRSA3.md",
     "picoCTF/Crypto 04",
-    "picoCTF/Crypto 03/03 b00tl3gRSA.md",
-    "picoCTF/Crypto 03/02 Mind your Ps and Qs.md",
     "Pasted image 20260429113151.png",
     "Pasted image 20260429113127.png",
     "picoCTF/Crypto 03",
@@ -225,8 +227,6 @@
     "picoCTF/Examen 1/Sin título.base",
     "Pasted image 20260329122853.png",
     "Pasted image 20260329122939.png",
-    "picoCTF/Examen 1",
-    "picoCTF/Forensic 4",
     "Pasted image 20260308165722.png",
     "picoCTF/01-General Skills/Sin título.canvas",
     "picoCTF/03-General Skills 3/Sin título.canvas"
