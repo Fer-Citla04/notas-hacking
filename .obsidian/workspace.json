@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "picoCTF/Reversing Parte 2/06 Picker IV.md",
+                "file": "picoCTF/Reversing Parte 3/03 asm3.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "06 Picker IV"
+              "title": "03 asm3"
             }
           }
         ]
@@ -182,16 +182,19 @@
   },
   "active": "84f73a4c97fc24f8",
   "lastOpenFiles": [
+    "picoCTF/Reversing Parte 3/02 asm2.md",
+    "picoCTF/Reversing Parte 3/01 asm1.md",
+    "picoCTF/Reversing Parte 3/03 asm3.md",
+    "Plantilla.md",
+    "picoCTF/Reversing Parte 2/06 Picker IV.md",
+    "picoCTF/Reversing Parte 3",
     "picoCTF/Reversing Parte 2/05 Picker III.md",
     "picoCTF/Reversing Parte 2/04 Picker II.md",
     "picoCTF/Reversing Parte 2/03 Picker I.md",
-    "picoCTF/Reversing Parte 2/06 Picker IV.md",
     "picoCTF/Reversing Parte 2/02 timer.md",
     "picoCTF/Reversing Parte 2/01 Safe Opener 2.md",
-    "Plantilla.md",
     "picoCTF/Sin nombre/Sin título.md",
     "picoCTF/Reversing Parte 1/05 vault-door-5.md",
-    "picoCTF/Sin nombre",
     "picoCTF/Reversing Parte 2",
     "picoCTF/Reversing Parte 1/04 vault-door-4.md",
     "picoCTF/Reversing Parte 1/03 vault-door-3.md",
@@ -213,9 +216,6 @@
     "Pasted image 20260503143407.png",
     "Pasted image 20260503143313.png",
     "picoCTF/Tarea 4  - Crypto/02 credstuff.md",
-    "picoCTF/Tarea 4  - Crypto/01 Crack the Power.md",
-    "picoCTF/Tarea 1/01 Permissions.md",
-    "picoCTF/Crypto 04/05 flags.md",
     "picoCTF/Tarea 4  - Crypto",
     "picoCTF/Crypto 04",
     "Pasted image 20260429113151.png",
